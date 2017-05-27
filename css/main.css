@@ -479,7 +479,7 @@ a:focus {
   background: url(../images/logo.png) no-repeat 0 50%;
 }
 .navbar-default .navbar-nav > li {
-  margin-left: 1px;
+  margin-left: 11px;
 }
 .navbar-default .navbar-nav > li > a {
   padding: 30px 25px;
