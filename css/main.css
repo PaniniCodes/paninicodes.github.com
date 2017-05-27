@@ -380,7 +380,7 @@ a:focus {
 .carousel.scale .right-arrow {
   right: -10px;
 }
-.carousel.scale .active .row > div:nth-child(100000000) {
+.carousel.scale .active .row > div:nth-child(1000000) {
   -webkit-animation: scaleUp 200ms linear 0 both;
   -moz-animation: scaleUp 200ms linear 0 both;
   -ms-animation: scaleUp 200ms linear 0 both;
